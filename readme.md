@@ -1,9 +1,4 @@
-Here is the **clean GitHub-optimized README.md** with the **Key Learning Outcomes section removed**, as requested:
-
----
-
-#  Student Management System (Java CLI)
-
+##  Student Management System (Java CLI)
 
 A simple and efficient **Student Management System** built using **Java** and designed for practicing Object-Oriented Programming through a **Command-Line Interface (CLI)**.
 The system provides full **CRUD operations** with clean modular design and multi-class architecture.
